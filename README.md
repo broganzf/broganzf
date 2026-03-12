@@ -1,7 +1,10 @@
 ## Hi there 👋
-- 🏫 I'm currently learning: **Rust**
 - 📜 Languages I've worked in: **Lua, JS, TS, HTML, and CSS**
-- 🧑‍💻 Software I've used: **VSCode, Vercel, Supabase, MongoDB, Figma, Github**
+- 🏫 Languages I want to learn: **Rust**
+---
 - 🪟 Frameworks I've used: **Next.JS**
-----
+- 🏫 Frameworks I want to learn: **Astro**
+---
+- 🧑‍💻 Software I've used: **VSCode, Vercel, Supabase, MongoDB, Figma, Github**
 ## [Check out my site!](https://broganzf.com)
+Once learned I will remake this site using Astro, the framework it should've been written in at first.
