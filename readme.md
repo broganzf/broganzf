@@ -8,3 +8,4 @@
 - 🧑‍💻 Software I've used: **VSCode, Vercel, Supabase, MongoDB, Figma, Github**
 ## [Check out my site!](https://broganzf.com)
 Once learned I will remake this site using Astro, the framework it should've been written in at first.
+## [My Github Gists!](https://gist.github.com/broganzf)
