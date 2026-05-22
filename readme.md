@@ -2,7 +2,7 @@
 - 📜 Languages I've worked in: **Lua, JS, TS, HTML, and CSS**
 - 🏫 Languages I want to learn: **Rust**
 ---
-- 🪟 Frameworks I've used: **Next.JS**
+- 🪟 Frameworks I've used: **Next.JS, TanStack**
 - 🏫 Frameworks I want to learn: **Astro**
 ---
 - 🧑‍💻 Software I've used: **VSCode, Vercel, Supabase, MongoDB, Figma, Github**
